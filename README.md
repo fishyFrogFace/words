@@ -1,7 +1,7 @@
 # words
 Takes a file with words and counts how many words there are of a given length.
 
-You need need [Stack](https://www.haskell.org/platform/) to build the project.
+You need [Stack](https://www.haskell.org/platform/) to build the project.
 
 ## Usage
 
